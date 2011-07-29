@@ -27,7 +27,7 @@
 //   if(!$uagent->DetectJQueryMobile()){
 // 	header('Location: http://batuin.com/wap/361725');
 //   } else {
-	header('Location: logo.html');
+	header('Location: index.html');
 //   }
 // }
 ?>
